@@ -1,0 +1,1084 @@
+
+# This is a comment
+.NET
+.NET Core
+.QL
+4th Dimension
+@Formula
+A+
+A.NET (A#/A sharp)
+ABAP
+ABC
+ACC
+Accent
+Access Database Engine
+Accord.NET
+Accumulo
+Ace DASL
+Action!
+ActionScript
+Actor
+Ada
+Adabas D
+Adenine (Haystack)
+AdvPL
+Aerospike
+Agda
+Agilent VEE
+Agora
+AIMMS
+Airtable
+AlchemyDB
+Aldor
+Alef
+ALF
+ALGOL
+Alice
+AllegroGraph
+Altibase
+Amazon Aurora
+Amazon DynamoDB
+Amazon SimpleDB
+Amazon Web Services (AWS)
+AmbientTalk
+Amisa Server
+AMOS
+AMPL
+AngelScript
+Angular
+AngularJS
+Ansible
+AnyChart
+AOLserver
+Apache
+Apache Derby
+Apache MXNet
+Apache OJB
+Apache Pig latin
+Apache Tomcat
+Apache Traffic Server
+Apex
+APL
+App Inventor
+Appcelerator Titanium
+AppleScript
+APT
+ArangoDB
+Arc
+ARexx
+Argus
+ASP.NET
+ASP.NET Core
+Assembly
+Assembly language
+Aster Data
+Aurelia
+AutoHotkey
+AutoIt
+Auvik
+Averest
+Axum
+Azure Table storage
+B
+Babbage
+Babylon.js
+Backbone.js
+Ballerina
+Bamboo
+BangDB
+BaseX
+Bash
+BASIC
+BCPL
+BeanShell
+Berkeley DB
+BerkeleyDB
+Bertrand
+BETA
+BLISS
+Blockly
+BlooP
+Boa
+Boo
+Boomerang
+Bootstrap
+Bosque
+Brain.js
+BrightstarDB
+Brownie
+Bulma
+C
+C#
+C*
+C++
+c-treeACE database
+CA Datacom
+CA IDMS
+Caddy
+CakePHP
+Caliburn Micro
+Caml
+Cannon.js
+Cappuccino
+Cassandra
+Cassowary
+Caudium
+Cayenne
+CDuce
+Cecil
+CEEMAC
+CERN httpd
+Certificate server
+CESIL
+Ceylon
+CFEngine
+Cg
+Ch
+Chainer
+Chapel
+Charm
+Chart.js
+CHEF
+Cherokee
+CHILL
+CHIP-8
+CHR.js
+ChucK
+Cilk
+Citrus
+Claire
+Clarion
+Clean
+ClickHouse
+Clipper
+CLIPS
+CLIST
+Clojure
+Cloud Data
+CLU
+Clusterpoint Server
+Clustrix
+CMS EXEC
+CMS-2
+COBOL
+CobolScript
+Cobra
+CockroachDB
+CodeIgniter
+CodeQL
+CoffeeScript
+ColdFusion
+COMAL
+COMIT
+Common Intermediate Language
+COMPASS
+Component Pascal
+COMTRAN
+Cool
+Coq
+Coral 66
+Corda
+coretxDB
+Corona
+CorVision
+Couchbase Server
+CouchDB
+COWSEL
+CPL
+Create Eth App
+Cryptol
+Crystal
+Csound
+CSQL
+CSS
+CUBRID
+Cuneiform
+Curl
+Curry
+Cybil
+Cyclone
+Cypher Query Language
+Cypress
+Cython
+Cytoscape
+Céu
+D
+D3.js
+Dart
+Darwin
+Database Management Library
+DataEase
+DataFlex
+Datalog
+Dataphor
+DATATRIEVE
+DatomicDB
+DAX
+dBase
+dc
+DCL
+Delphi
+DensoDB
+Derby
+DEX
+DIBOL
+DinkC
+Django
+Djondb
+DM
+Dog
+Dojo Toolkit
+Dojo Widgets
+Draco
+DRAKON
+Dylan
+DYNAMO
+Dynomite
+E
+Ease
+Easy PL/I
+EASYTRIEVE PLUS
+eC
+Echo
+ECMAScript
+EDB
+Edinburgh IMP
+EGL
+Eiffel
+ELAN
+Elastic Search
+Electron
+Elixir
+Elm
+Emacs Lisp
+Embark
+Ember
+EMC Documentum xDB
+Emerald
+Empress Embedded Database
+EnterpriseDB
+Enyo
+Epigram
+EPL
+Erlang
+es
+Escher
+ESPOL
+Esterel
+Etherlime
+Etoys
+Euclid
+Euler
+Euphoria
+Exasol
+EXEC 2
+Executable UML
+eXist
+Exonum
+Express.js
+Ext JS
+Ext JS by Sencha
+Extensible Storage Engine
+eXtremeDB
+EyeDB
+Ezhil
+F
+F#
+F*
+F-Script
+Factor
+Fantom
+FarmerD
+Fat-Free Framework
+FatDB
+FAUST
+FFP
+FileMaker Pro
+Firebird
+fish
+Fjölnir
+FL
+FlagShip
+Flask
+Flavors
+Flex
+Flink
+Flix
+FlockDB
+FlooP
+FLOW-MATIC
+Flutter
+FOCAL
+FOCUS
+FOIL
+FORMAC
+Forth
+Fortran
+Fortress
+Foundation by ZURB
+FoundationDB
+FoxBase/FoxPro
+FP
+Framework 7
+FrontBase
+FuelPHP
+FusionCharts
+Futhark
+G-code
+Galen Framework
+Game Maker Language
+GameMonkey Script
+GAMS
+GAP
+Gatsby
+Gauge
+GDL
+GDScript (Godot)
+GemfireDB
+Gemstone
+Genie
+GenieDB
+Genome
+GEORGE
+Global
+Glow
+GLSL
+GNU E
+GNU Guile
+Go
+GOAL
+Golo
+GOM
+Google Apps Script
+Google Charts
+Google Closure Library
+Google Cloud Platform (GCP)
+Google Fusion Tables
+Google Web Toolkit
+Gosu
+GOTRAN
+GPSS
+Grails
+GraphTalk
+GRASS
+Grasshopper
+Greenplum
+Grok
+Groovy
+GroveSite
+GT.M
+Gunicorn
+Gödel
+H2
+H2O
+H2O Q
+Hack
+Hadoop
+HAGGIS
+HAL/S
+Halide
+hamsterdb
+HAProxy
+Harbour
+Haskell
+Haxe
+Hazelcast
+Helix
+Hermes
+Hiawatha
+Hibari
+Highcharts
+HLSL
+Hollywood
+HolyC
+Hop
+Hope
+Hopscotch
+Horde
+Horovod
+HPCC
+HSQLDB
+HSS Database
+HTML
+HTTP File Server
+Hume
+HyperDex
+HypergraphDB
+Hyperledger
+Hypertable
+HyperTalk
+IBM Db2
+IBM HAScript
+IBM Informix-4GL
+IBM Lotus Approach
+IBM RPG
+Icon
+IDL
+Idris
+Infer.NET
+Infinispan
+InfiniteGraph
+Infobright
+Infogrid
+Inform
+Informix
+Ingres
+InterBase
+Intersystem cache
+InterSystems Caché
+InterSystems IRIS Data Platform
+Io
+Ionic
+J
+J#
+J++
+JADE
+Jai
+JAL
+Janus
+JasDB
+Jasmine
+JASS
+Java
+JavaFX Script
+Javalin
+JavaScript
+JavaScript InfoVis Toolkit
+JavaScriptMVC
+JCL
+JEAN
+Jess
+Jest
+Jetty
+Jinja
+Jinja-JS
+Join Java
+Joose
+JOSS
+Joule
+JOVIAL
+Joy
+jQuery
+jQuery Mobile
+jQuery UI
+jQWidgets
+JScript
+JScript .NET
+JSON
+JsPHP
+JsRender/JsViews
+JUJU
+Julia
+Jython
+K
+Kaleidoscope
+Karate
+Karel
+KEE
+KIF
+KitaroDB
+Kite
+Kiwix
+Kixtart
+Klerer-May System
+Knockout
+Koa
+Kodu
+Kojo
+KornShell
+Kotlin
+KRC
+KRL
+KRYPTON
+Ktor
+Kv
+LabVIEW
+Ladder
+Language H
+LANSA
+Laravel
+Lasso
+Lava
+LC-3
+Lean
+Legoscript
+LevelDB
+Lexico
+Light Cloud
+Lighttpd
+LIL
+LilyPond
+Limbo
+Limnor
+LINC
+Lingo
+LINQ
+Linter
+LIS
+LISA
+Lisp
+Lite-C
+Lithe
+Little b
+LiveCode
+Lively Kernel
+LiveScript
+LLL
+Logo
+Logtalk
+LotusScript
+LPC
+LSE
+LSL
+Lua
+Lucid
+Lumen
+Lustre
+LYaPAS
+Lynx
+M Formula language
+M#
+M2001
+M4
+Machine code
+MAD
+MAD/I
+Magik
+Magma
+Maple
+MAPPER
+MariaDB
+MARK-IV
+MarkLogic Server
+Mary
+MASM
+MATH-MATIC
+MathJax
+MATLAB
+Maude system
+Max
+MaxDB
+Maxima
+MaxScript
+Maya
+MDL
+MemcacheDB
+Mercury
+Mesa
+Meteor
+MHEG-5
+Microcode
+Microdot
+Microsoft Azure
+Microsoft Power Fx
+Microsoft SQL Server
+Microsoft SQL Server Express
+Microsoft Visual FoxPro
+midori
+MIIS
+Milk
+Mimer SQL
+MIMIC
+Mirah
+Miranda
+Mithril
+MIVA Script
+ML
+ML.NET
+Mobile Angular UI
+Mobile Web Server
+Mocha
+MochiKit
+Mod qos
+Model 204
+Modelica
+Modernizr
+ModSecurity
+Modula
+Modula-2
+Modula-3
+Mohol
+Mojito
+Mojolicious
+MonetDB
+MongoDB
+Mongrel
+Mongrel2
+Monkey HTTP Server
+MOO
+MooTools
+Mortran
+Mouse
+MPD
+MSL
+mSQL
+MultiChain
+MUMPS
+MuPAD
+Mustache
+Mutan
+MySQL
+Mystic
+Máni
+NanoHTTPD
+Napier88
+NASM
+NativeScript
+NaviServer
+NCSA HTTPd
+NeDB
+Neko
+Nemerle
+Neo4J
+NEODB
+NESL
+NessDB
+Net.Data
+Netezza
+NetLogo
+NetRexx
+Neural Network Libraries
+NEWP
+Newspeak
+NewtonScript
+NexusDB
+Nginx
+Nhttpd
+Nial
+Nickle
+Nightwatch
+Nim
+NinjaDB
+Nix
+Node.js
+NonStop SQL
+Not eXactly C
+Not Quite C
+NPL
+NSIS
+Nu
+Nunjucks
+NuoDB
+Nuxt.js
+NWScript
+NXT-G
+o:XML
+Oak
+Oberon
+OBJ2
+Object Pascal
+Object REXX
+ObjectDB
+Objective-C
+Objective-J
+Objectivity
+ObjectLOGO
+Obliq
+OCaml
+occam
+occam-π
+Octave
+Octopus Deploy
+OmniMark
+Omnis Studio
+Onsen UI
+Opa
+Opal
+OpenCL
+OpenLink Virtuoso
+OpenLink Virtuoso Universal Server
+OpenQASM
+OpenTest
+OpenUI5
+OpenUI5 by SAP
+OpenVera
+OpenZeppelin Contracts
+OPS5
+OptimJ
+Oracle
+Oracle Coherence
+Oracle NoSQL
+Oracle Rdb for OpenVMS
+Orc
+ORCA/Modula-2
+Oriel
+OrientDB
+Orwell
+Oxygene
+Oz
+P
+P4
+p5.js
+Panorama
+Paradox
+ParaSail
+PARI/GP
+Pascal
+Pascal Script
+PCASTL
+PCF
+PDF.js
+PDL
+PEARL
+PeopleCode
+Percona Server for MySQL
+Percona XtraDB Cluster
+Perl
+Perlbal
+Pervasive PSQL
+Phalcon
+Pharo
+Phoenix
+PhoneGap
+PHP
+PHPixie
+PickleDB
+Pico
+Pict
+Pike
+PILOT
+Pipelines
+Pizza
+PLANC
+Planner
+Play
+PLEX
+PLEXIL
+Plotly
+Plus
+Polyhedra
+Polymer
+POP-2
+PortablE
+Postgres Plus Advanced Server
+PostgreSQL
+POV-Ray SDL
+PowerBuilder
+Powerhouse
+PowerShell
+PPL
+Pro*C
+Processing.js
+Prograph
+Progress Software
+Prolog
+PROMAL
+Promela
+PROSE modeling language
+PROTEL
+Prototype JavaScript Framework
+Protractor
+ProvideX
+Puma
+Puppet
+Pure
+Pure Data
+PureMVC
+PureScript
+PWCT
+Pytest
+Python
+PyTorch
+P′′
+Q
+Q#
+Qalb
+Qizx/db
+qooxdoo
+QPL
+QtScript
+QuakeC
+Quantum Computation Language
+quasardb
+QUnit
+R
+R++
+R:Base
+Rachet
+Racket
+Raima
+Raku
+Raphaël
+RAPID
+Rapidoid
+Rapira
+RaptorDB
+Rasdaman
+Ratfiv
+Ratfor
+RavenDB
+rc
+RDM Server
+React
+React Native
+Reason
+REBOL
+Red
+Redcode
+Redis
+REFAL
+RethinkDB
+REXX
+RGraph
+Riak
+Ring
+Robot Framework
+Roff
+ROOP
+Roxen
+RPG
+RPL
+RSL
+RTL/2
+Ruby
+Ruby on Rails
+RUDDER
+Rust
+S
+S-Lang
+S-PLUS
+S/SL
+S2
+S3
+SA-C
+SabreTalk
+SAIL
+SAKO
+SALTSTACK
+SAND CDBMS
+SAP Adaptive Server Enterprise
+SAP Advantage Database Server
+SAP HANA
+SAP IQ
+SAS
+SASL
+Sather
+Sawzall
+SBL
+Scala
+Scalaris
+Scalatra
+Scheme
+SciDB
+Scilab
+Scrapy
+Scratch
+Script.aculo.us
+Script.NET
+SCSS
+SDB
+Sed
+Sedna
+Seed7
+seen
+Self
+Sencha Ext JS
+SenseTalk
+SequenceL
+Serpent
+SETL
+Shell
+Short Code
+SIGNAL
+Silex
+SiMPLE
+SIMPOL
+SIMSCRIPT
+Simula
+Simulink
+Sinatra
+SingleStore
+SISAL
+SisoDB
+SiteWhere
+SKILL
+SLIP
+SMALL
+Smalltalk
+SML
+Snap!
+SNOBOL
+Snowball
+Snowflake
+Socket.IO
+SOL
+SolarWinds
+solidDB
+Solidity
+SOPHAEROS
+Source
+SP/k
+SPARK
+Speakeasy
+Speedcode
+SPIN
+Splice
+Spring
+SproutCore
+Spry framework
+SPS
+SQL
+SQL Anywhere
+SQL Azure
+SQLBase
+SQLite
+SQR
+SQream DB
+Squeak
+Squirrel
+SR
+Starcounter
+Starlogo
+Stata
+Stateflow
+Strand
+Streling
+Strongtalk
+STSdb
+Subtext
+SuperCollider
+Superplan
+SuperTalk
+Svelte
+SWFObject
+Swift
+Swiftic
+Symas Lightning Memory Mapped Database (LMDB)
+Symfony
+SYMPL
+SystemVerilog
+T
+T-SQL
+TACL
+TACPOL
+TADS
+TAL
+Tarantool
+Tcl
+Tea
+TeamCity
+Teechart
+TELCOMP
+TensorFlow
+Teradata
+Terrastore
+TestProject
+TEX
+Three.js
+ThruDB
+Thttpd
+TIBCO ActiveSpaces DB
+Tibero
+TiDB
+TIE
+TimesTen
+Titan
+TMG
+Toi
+Tokyo Cabnit/Tyrant
+Tom
+Toolatra
+Topspeed
+Tornado
+TPU
+Trac
+Trafodion
+Transcript
+Trinity
+Truffle
+TTCN
+TTM
+TurboGears
+Turing
+TUTOR
+TUX web server
+Twig.js
+TXL
+Tynker
+TypeScript
+Ubercode
+UCSD Pascal
+Umple
+Underscore.js
+Unicon
+Unicorn
+UniData
+Uniface
+Unisys RDMS 2200
+Unit.js
+UNITY
+UniVerse
+UnQLite
+UnrealScript
+UWSGI
+Vala
+Varnish
+Vectorwise
+Velocity.js
+Verge3D
+VersantDB
+Vertica
+VertxDB
+Vim script
+Viper
+Virtuoso
+Virtuoso Universal Server
+Visual DataFlex
+Visual DialogScript
+Visual FoxPro
+Visual J++
+Visual Objects
+Visual Prolog
+Voldemort
+VoltDB
+Vue.js
+Vyhodb
+Wakanda Framework
+Web2py
+WebAssembly
+WebDNA
+WebDriverIO
+Webix
+WEBrick
+Whiley
+WHITE Database
+Wicket
+Winbatch
+WinJS
+Wolfram Language
+Wyvern
+X++
+X10
+Xamarin
+XAMPP
+xBase++
+XBL
+XC
+xHarbour
+Xitami
+XL
+Xod
+Xojo
+XOTcl
+XPL
+XPL0
+XQuery
+XSB
+XSharp (X#)
+XSLT
+Xtend
+Yaws
+Yesod
+Yii
+Yoix
+Yorick
+YQL
+YugabyteDB
+YUI Library
+Z notation
+Z shell
+Zebra, ZPL, ZPL2
+Zend
+Zeno
+Zikula
+ZODB

@@ -175,6 +175,7 @@ Common Intermediate Language
 COMPASS
 Component Pascal
 COMTRAN
+Confluence
 Cool
 Coq
 Coral 66
@@ -187,6 +188,7 @@ CouchDB
 COWSEL
 CPL
 Create Eth App
+Creatio
 Cryptol
 Crystal
 Csound
@@ -228,6 +230,7 @@ DinkC
 Django
 Djondb
 DM
+Docker
 Dog
 Dojo Toolkit
 Dojo Widgets
@@ -342,6 +345,7 @@ Genie
 GenieDB
 Genome
 GEORGE
+Gleek
 Global
 Glow
 GLSL
@@ -449,6 +453,7 @@ JavaScript InfoVis Toolkit
 JavaScriptMVC
 JCL
 JEAN
+Jenkins
 Jess
 Jest
 Jetty
@@ -566,6 +571,7 @@ MaxScript
 Maya
 MDL
 MemcacheDB
+Mendix
 Mercury
 Mesa
 Meteor
@@ -794,6 +800,7 @@ QtScript
 QuakeC
 Quantum Computation Language
 quasardb
+Quixy
 QUnit
 R
 R++
@@ -822,6 +829,7 @@ Redcode
 Redis
 REFAL
 RethinkDB
+Retool
 REXX
 RGraph
 Riak
@@ -1035,6 +1043,7 @@ Visual DataFlex
 Visual DialogScript
 Visual FoxPro
 Visual J++
+Visual LANSA
 Visual Objects
 Visual Prolog
 Voldemort
@@ -1090,3 +1099,4 @@ Zend
 Zeno
 Zikula
 ZODB
+Zoho Creator

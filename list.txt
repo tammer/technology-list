@@ -1,3 +1,4 @@
+(Visual) FoxPro
 .NET
 .NET Core
 .QL
@@ -75,6 +76,7 @@ AutoHotkey
 AutoIt
 Auvik
 Averest
+Awk
 Axum
 Azure Table storage
 B
@@ -146,6 +148,7 @@ Cilk
 Citrus
 Claire
 Clarion
+Classic Visual Basic
 Clean
 ClickHouse
 Clipper
@@ -216,6 +219,7 @@ dBase
 dc
 DCL
 Delphi
+Delphi/Object Pascal
 DensoDB
 Derby
 DEX
@@ -492,6 +496,7 @@ Ktor
 Kv
 LabVIEW
 Ladder
+Ladder Logic
 Language H
 LANSA
 Laravel
@@ -737,6 +742,7 @@ Pike
 PILOT
 Pipelines
 Pizza
+PL/SQL
 PLANC
 Planner
 Play
@@ -981,6 +987,7 @@ Tornado
 TPU
 Trac
 Trafodion
+Transact-SQL
 Transcript
 Trinity
 Truffle
@@ -1011,16 +1018,19 @@ UnrealScript
 UWSGI
 Vala
 Varnish
+VBScript
 Vectorwise
 Velocity.js
 Verge3D
 VersantDB
 Vertica
 VertxDB
+VHDL
 Vim script
 Viper
 Virtuoso
 Virtuoso Universal Server
+Visual Basic
 Visual DataFlex
 Visual DialogScript
 Visual FoxPro

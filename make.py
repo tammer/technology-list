@@ -1,9 +1,9 @@
 # usage python3 techstack.py > ./../src/data/attributeLists.jsx
 
-y = {}
+from os import listdir
 
-files=['original.txt','github.txt']
-# files=['github.txt']
+files = listdir('sublists')
+y = {}
 
 for file in files:
     with open(f"sublists/{file}") as file:

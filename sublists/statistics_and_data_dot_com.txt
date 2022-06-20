@@ -1,0 +1,34 @@
+Visual Basic
+SQL
+Classic Visual Basic
+Groovy
+Go
+Delphi/Object Pascal
+Swift
+Objective-C
+Scratch
+SAS
+Rust
+Ada
+PL/SQL
+Dart
+ABAP
+COBOL
+Julia
+Scala
+Logo
+LabVIEW
+Kotlin
+Lua
+Transact-SQL
+D
+TypeScript
+VHDL
+Apex
+VBScript
+Ladder Logic
+Awk
+Haskell
+Elixir
+(Visual) FoxPro
+PowerShell

@@ -2,6 +2,12 @@
 
 list of software dev technologies
 
+## The List
+
+The latest list is list.txt
+
 ## Usage
 
-python make.py > list.txt
+To generate the list:
+
+`python make.py > list.txt`

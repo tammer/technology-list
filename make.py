@@ -13,8 +13,9 @@ for file in files:
                     pass
                 else:
                     x= line.strip()
-                    z=x.lower()
-                    y[z] = x
+                    if len(x) > 0:
+                        z=x.lower()
+                        y[z] = x
 
 
 ordered = list(y.keys())

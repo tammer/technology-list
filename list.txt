@@ -37,6 +37,8 @@ AllegroGraph
 Altibase
 Amazon Aurora
 Amazon DynamoDB
+Amazon Elastic Container Service
+Amazon MQ
 Amazon SimpleDB
 Amazon Web Services (AWS)
 AmbientTalk
@@ -50,10 +52,16 @@ Ansible
 AnyChart
 AOLserver
 Apache
+Apache ActiveMQ
+Apache Artemis
 Apache Derby
+Apache Kafka
+Apache Mesos
 Apache MXNet
 Apache OJB
 Apache Pig latin
+Apache Pulsar
+Apache Qpid
 Apache Tomcat
 Apache Traffic Server
 Apex
@@ -77,7 +85,9 @@ AutoIt
 Auvik
 Averest
 Awk
+AWS Kinesis
 Axum
+Azure Key Vault
 Azure Table storage
 B
 Babbage
@@ -102,8 +112,10 @@ Boa
 Boo
 Boomerang
 Bootstrap
+Borg
 Bosque
 Brain.js
+Bright Cluster Manager
 BrightstarDB
 Brownie
 Bulma
@@ -156,6 +168,7 @@ CLIPS
 CLIST
 Clojure
 Cloud Data
+Cloverleaf
 CLU
 Clusterpoint Server
 Clustrix
@@ -175,13 +188,16 @@ Common Intermediate Language
 COMPASS
 Component Pascal
 COMTRAN
+Comverse Message Broker
 Confluence
+Consul
 Cool
 Coq
 Coral 66
 Corda
 coretxDB
 Corona
+Corosync Cluster Engine
 CorVision
 Couchbase Server
 CouchDB
@@ -198,7 +214,9 @@ CUBRID
 Cuneiform
 Curl
 Curry
+CyberArk
 Cybil
+CycleCloud
 Cyclone
 Cypher Query Language
 Cypress
@@ -231,6 +249,7 @@ Django
 Djondb
 DM
 Docker
+Docker Swarm
 Dog
 Dojo Toolkit
 Dojo Widgets
@@ -245,6 +264,7 @@ Easy PL/I
 EASYTRIEVE PLUS
 eC
 Echo
+Eclipse Mosquitto MQTT Broker
 ECMAScript
 EDB
 Edinburgh IMP
@@ -261,6 +281,8 @@ Ember
 EMC Documentum xDB
 Emerald
 Empress Embedded Database
+EMQX
+Enduro/X
 EnterpriseDB
 Enyo
 Epigram
@@ -299,6 +321,7 @@ FatDB
 FAUST
 FFP
 FileMaker Pro
+Financial Fusion Message Broker
 Firebird
 fish
 Fjölnir
@@ -316,6 +339,7 @@ Flutter
 FOCAL
 FOCUS
 FOIL
+Foreman
 FORMAC
 Forth
 Fortran
@@ -327,6 +351,7 @@ FP
 Framework 7
 FrontBase
 FuelPHP
+Fuse Message Broker
 FusionCharts
 Futhark
 G-code
@@ -339,12 +364,14 @@ Gatsby
 Gauge
 GDL
 GDScript (Godot)
+Gearman
 GemfireDB
 Gemstone
 Genie
 GenieDB
 Genome
 GEORGE
+Github Actions
 Gleek
 Global
 Glow
@@ -359,6 +386,7 @@ Google Apps Script
 Google Charts
 Google Closure Library
 Google Cloud Platform (GCP)
+Google Cloud Pub/Sub
 Google Fusion Tables
 Google Web Toolkit
 Gosu
@@ -389,11 +417,13 @@ Harbour
 Haskell
 Haxe
 Hazelcast
+Heartbeat
 Helix
 Hermes
 Hiawatha
 Hibari
 Highcharts
+HiveMQ
 HLSL
 Hollywood
 HolyC
@@ -401,6 +431,7 @@ Hop
 Hope
 Hopscotch
 Horde
+HornetQ
 Horovod
 HPCC
 HSQLDB
@@ -413,10 +444,12 @@ HypergraphDB
 Hyperledger
 Hypertable
 HyperTalk
+IBM App Connect
 IBM Db2
 IBM HAScript
 IBM Informix-4GL
 IBM Lotus Approach
+IBM MQ
 IBM RPG
 Icon
 IDL
@@ -451,6 +484,7 @@ Javalin
 JavaScript
 JavaScript InfoVis Toolkit
 JavaScriptMVC
+JBoss
 JCL
 JEAN
 Jenkins
@@ -461,6 +495,7 @@ Jinja
 Jinja-JS
 Join Java
 Joose
+JORAM
 JOSS
 Joule
 JOVIAL
@@ -478,6 +513,7 @@ JUJU
 Julia
 Jython
 K
+K3s
 Kaleidoscope
 Karate
 Karel
@@ -498,6 +534,7 @@ KRC
 KRL
 KRYPTON
 Ktor
+Kubernetes
 Kv
 LabVIEW
 Ladder
@@ -579,11 +616,15 @@ MHEG-5
 Microcode
 Microdot
 Microsoft Azure
+Microsoft Azure Service Bus
+Microsoft BizTalk Server
+Microsoft Cluster Server
 Microsoft Power Fx
 Microsoft SQL Server
 Microsoft SQL Server Express
 Microsoft Visual FoxPro
 midori
+MigratoryData
 MIIS
 Milk
 Mimer SQL
@@ -633,6 +674,7 @@ NanoHTTPD
 Napier88
 NASM
 NativeScript
+NATS
 NaviServer
 NCSA HTTPd
 NeDB
@@ -660,6 +702,7 @@ Nim
 NinjaDB
 Nix
 Node.js
+Nomad
 NonStop SQL
 Not eXactly C
 Not Quite C
@@ -690,13 +733,18 @@ Octave
 Octopus Deploy
 OmniMark
 Omnis Studio
+oneSIS
 Onsen UI
 Opa
 Opal
+Open Message Queue
 OpenCL
+OpenHPC
 OpenLink Virtuoso
 OpenLink Virtuoso Universal Server
 OpenQASM
+OpenSAF
+OpenSVC
 OpenTest
 OpenUI5
 OpenUI5 by SAP
@@ -706,6 +754,7 @@ OPS5
 OptimJ
 Oracle
 Oracle Coherence
+Oracle Message Broker
 Oracle NoSQL
 Oracle Rdb for OpenVMS
 Orc
@@ -729,6 +778,7 @@ PCF
 PDF.js
 PDL
 PEARL
+Pelican
 PeopleCode
 Percona Server for MySQL
 Percona XtraDB Cluster
@@ -805,10 +855,12 @@ QUnit
 R
 R++
 R:Base
+RabbitMQ
 Rachet
 Racket
 Raima
 Raku
+Rancher
 Raphaël
 RAPID
 Rapidoid
@@ -825,6 +877,7 @@ React Native
 Reason
 REBOL
 Red
+Red Hat  cluster suite
 Redcode
 Redis
 REFAL
@@ -835,6 +888,7 @@ RGraph
 Riak
 Ring
 Robot Framework
+Rocks Cluster Distribution
 Roff
 ROOP
 Roxen
@@ -862,6 +916,7 @@ SAP Adaptive Server Enterprise
 SAP Advantage Database Server
 SAP HANA
 SAP IQ
+SAP PI
 SAS
 SASL
 Sather
@@ -878,6 +933,7 @@ Scratch
 Script.aculo.us
 Script.NET
 SCSS
+Scyld ClusterWare
 SDB
 Sed
 Sedna
@@ -907,6 +963,7 @@ SKILL
 SLIP
 SMALL
 Smalltalk
+SMC SMC
 SML
 Snap!
 SNOBOL
@@ -914,6 +971,7 @@ Snowball
 Snowflake
 Socket.IO
 SOL
+Solace PubSub+
 SolarWinds
 solidDB
 Solidity
@@ -925,6 +983,7 @@ Speakeasy
 Speedcode
 SPIN
 Splice
+Spread Toolkit
 Spring
 SproutCore
 Spry framework
@@ -939,6 +998,7 @@ SQream DB
 Squeak
 Squirrel
 SR
+Stacki
 Starcounter
 Starlogo
 Stata
@@ -951,6 +1011,7 @@ Subtext
 SuperCollider
 Superplan
 SuperTalk
+Surge
 Svelte
 SWFObject
 Swift
@@ -980,6 +1041,7 @@ Three.js
 ThruDB
 Thttpd
 TIBCO ActiveSpaces DB
+TIBCO Enterprise Message Service
 Tibero
 TiDB
 TIE
@@ -998,6 +1060,7 @@ Trafodion
 Transact-SQL
 Transcript
 Trinity
+TrinityX
 Truffle
 TTCN
 TTM
@@ -1006,6 +1069,7 @@ Turing
 TUTOR
 TUX web server
 Twig.js
+Twine
 TXL
 Tynker
 TypeScript
@@ -1026,6 +1090,7 @@ UnrealScript
 UWSGI
 Vala
 Varnish
+Vault
 VBScript
 Vectorwise
 Velocity.js
@@ -1051,6 +1116,7 @@ VoltDB
 Vue.js
 Vyhodb
 Wakanda Framework
+Warewulf
 Web2py
 WebAssembly
 WebDNA
@@ -1063,6 +1129,7 @@ Wicket
 Winbatch
 WinJS
 Wolfram Language
+WSO2 Message Broker
 Wyvern
 X++
 X10
@@ -1071,6 +1138,7 @@ XAMPP
 xBase++
 XBL
 XC
+xCAT
 xHarbour
 Xitami
 XL
@@ -1084,6 +1152,7 @@ XSB
 XSharp (X#)
 XSLT
 Xtend
+YARN
 Yaws
 Yesod
 Yii
@@ -1097,6 +1166,7 @@ Z shell
 Zebra, ZPL, ZPL2
 Zend
 Zeno
+ZeroMQ
 Zikula
 ZODB
 Zoho Creator

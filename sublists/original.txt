@@ -14,7 +14,7 @@ Kubernetes
 Heartbeat
 Docker Swarm
 Red Hat  cluster suite
-Nomad (HashiCorp)
+Nomad
 Rancher
 TrinityX
 Corosync Cluster Engine

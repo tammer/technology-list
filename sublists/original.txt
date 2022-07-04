@@ -187,30 +187,21 @@ Koa
 jQuery
 Node.js
 React
-{{Languages}}
-A.NET (A#/A sharp)
+{{legit Languages}}
+AIMMS
+A# (.NET)
 A+
 ABAP
-ABC
-ACC
-Accent
-Ace DASL
-Action!
+DASL
 ActionScript
-Actor
-Ada
 Adenine
-AdvPL
+Ada
+VEE
 Agda
-Agilent VEE
-Agora
-AIMMS
 Aldor
-Alef
-ALF
 ALGOL 
 Alice
-AmbientTalk
+{{Languages}}
 AMOS
 AMPL
 AngelScript

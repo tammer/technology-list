@@ -2,33 +2,22 @@
 .NET Core
 .QL
 4th Dimension
+A# (.NET)
 A+
-A.NET (A#/A sharp)
 ABAP
-ABC
-ACC
-Accent
 Access Database Engine
 Accord.NET
 Accumulo
-Ace DASL
-Action!
 ActionScript
-Actor
 Ada
 Adabas D
 Adenine
-AdvPL
 Aerospike
 Agda
-Agilent VEE
-Agora
 AIMMS
 Airtable
 AlchemyDB
 Aldor
-Alef
-ALF
 ALGOL
 Alice
 AllegroGraph
@@ -39,7 +28,6 @@ Amazon Elastic Container Service
 Amazon MQ
 Amazon SimpleDB
 Amazon Web Services (AWS)
-AmbientTalk
 Amisa Server
 AMOS
 AMPL
@@ -225,6 +213,7 @@ D
 D3.js
 Dart
 Darwin
+DASL
 Database Management Library
 DataEase
 DataFlex
@@ -1084,6 +1073,7 @@ Varnish
 Vault
 VBScript
 Vectorwise
+VEE
 Velocity.js
 Verge3D
 VersantDB

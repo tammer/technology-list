@@ -30,5 +30,4 @@ Ladder Logic
 Awk
 Haskell
 Elixir
-(Visual) FoxPro
 PowerShell

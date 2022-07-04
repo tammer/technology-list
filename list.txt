@@ -1,9 +1,7 @@
-(Visual) FoxPro
 .NET
 .NET Core
 .QL
 4th Dimension
-@Formula
 A+
 A.NET (A#/A sharp)
 ABAP
@@ -19,7 +17,7 @@ ActionScript
 Actor
 Ada
 Adabas D
-Adenine (Haystack)
+Adenine
 AdvPL
 Aerospike
 Agda
@@ -261,7 +259,6 @@ Dynomite
 E
 Ease
 Easy PL/I
-EASYTRIEVE PLUS
 eC
 Echo
 Eclipse Mosquitto MQTT Broker
@@ -346,7 +343,6 @@ Fortran
 Fortress
 Foundation by ZURB
 FoundationDB
-FoxBase/FoxPro
 FP
 Framework 7
 FrontBase
@@ -622,7 +618,6 @@ Microsoft Cluster Server
 Microsoft Power Fx
 Microsoft SQL Server
 Microsoft SQL Server Express
-Microsoft Visual FoxPro
 midori
 MigratoryData
 MIIS
@@ -777,7 +772,6 @@ PCASTL
 PCF
 PDF.js
 PDL
-PEARL
 Pelican
 PeopleCode
 Percona Server for MySQL
@@ -824,11 +818,8 @@ Progress Software
 Prolog
 PROMAL
 Promela
-PROSE modeling language
-PROTEL
 Prototype JavaScript Framework
 Protractor
-ProvideX
 Puma
 Puppet
 Pure

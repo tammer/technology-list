@@ -10,4 +10,4 @@ The latest list is list.txt
 
 To generate the list:
 
-`python make.py > list.txt`
+`python3 make.py > list.txt`

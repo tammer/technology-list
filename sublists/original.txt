@@ -199,7 +199,7 @@ Action!
 ActionScript
 Actor
 Ada
-Adenine (Haystack)
+Adenine
 AdvPL
 Agda
 Agilent VEE
@@ -320,7 +320,6 @@ DAX
 E
 Ease
 Easy PL/I
-EASYTRIEVE PLUS
 eC
 ECMAScript
 Edinburgh IMP
@@ -365,12 +364,10 @@ FOCAL
 FOCUS
 FOIL
 FORMAC
-@Formula
 Forth
 Fortran
 Fortress
 FP
-FoxBase/FoxPro
 Futhark
 F-Script
 Game Maker Language
@@ -607,7 +604,6 @@ Pascal
 Pascal Script
 PCASTL
 PCF
-PEARL
 PeopleCode
 Perl
 PDL
@@ -636,9 +632,6 @@ Prograph
 Prolog
 PROMAL
 Promela
-PROSE modeling language
-PROTEL
-ProvideX
 Pro*C
 Pure
 Pure Data
@@ -871,7 +864,6 @@ MaxDB
 Microsoft SQL Server
 Microsoft SQL Server Express
 SQL Azure
-Microsoft Visual FoxPro
 Mimer SQL
 MonetDB
 mSQL

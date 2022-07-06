@@ -29,7 +29,6 @@ Amazon MQ
 Amazon SimpleDB
 Amazon Web Services (AWS)
 Amisa Server
-AMOS
 AMPL
 AngelScript
 Angular
@@ -45,7 +44,7 @@ Apache Kafka
 Apache Mesos
 Apache MXNet
 Apache OJB
-Apache Pig latin
+Apache Pig
 Apache Pulsar
 Apache Qpid
 Apache Tomcat
@@ -55,11 +54,8 @@ APL
 App Inventor
 Appcelerator Titanium
 AppleScript
-APT
 ArangoDB
 Arc
-ARexx
-Argus
 ASP.NET
 ASP.NET Core
 Assembly

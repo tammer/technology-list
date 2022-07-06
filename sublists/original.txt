@@ -201,22 +201,18 @@ Agda
 Aldor
 ALGOL 
 Alice
-{{Languages}}
-AMOS
 AMPL
 AngelScript
-Apache Pig latin
+Apache Pig
 Apex
 APL
 App Inventor
 AppleScript
-APT
 Arc
-ARexx
-Argus
 Assembly language
 AutoHotkey
 AutoIt
+{{Languages}}
 Averest
 Axum
 B
